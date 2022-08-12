@@ -13,7 +13,7 @@ useEffect(()=>{
         setProjects(response.data)
     })
 })
-const url = projects.github;
+
 return (
     <div class="row">
         <h1 style={{ fontFamily:"Playfair Display SC" }} className="m-3">Projects</h1>
