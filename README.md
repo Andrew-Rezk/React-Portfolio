@@ -2,9 +2,13 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Modules
+
+If not already installed, please install: react-bootstrap bootstrap, axios, @fortawesome/react-fontawesome, flag-icons
+
 ## Available Scripts
 
-In the command terminal, you can run:
+In the command terminal, you can run (please make sure terminal is pointing towards "react-frontend" file inside directory):
 
 ### `npm start`
 
