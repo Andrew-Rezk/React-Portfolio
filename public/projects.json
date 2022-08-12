@@ -1,0 +1,163 @@
+[
+{
+"id":1,
+"title":"Nodejs User Management",
+"github":"https://github.com/Andrew-Rezk/NodeJs-User-Management-system",
+"slug":"perspiciatis-qui-sunt-repudiandae-et-animi",
+"image":"./images/nodejs.jpg",
+"content":"This is a CMS with full CRUD functionality using Nodejs, Express, and MongoDb",
+"type_id":1,
+"user_id":1,
+"created_at":"2022-08-05T22:21:55.000000Z",
+"updated_at":"2022-08-05T22:21:55.000000Z",
+    "user":{
+        "id":1,
+        "first":"Lurline",
+        "last":"Glover",
+        "email":"dickinson.jazlyn@example.org",
+        "email_verified_at":"2022-08-05T22:21:55.000000Z",
+        "created_at":"2022-08-05T22:21:55.000000Z",
+        "updated_at":"2022-08-05T22:21:55.000000Z"
+        },
+    "type":{
+        "id":1,
+        "title":"Dolore distinctio qui et voluptas voluptas.",
+        "created_at":"2022-08-05T22:21:55.000000Z",
+        "updated_at":"2022-08-05T22:21:55.000000Z"
+        }},
+{
+"id":2,
+"title":"Front-End Bartending Website",
+"github":"https://github.com/Andrew-Rezk/Bartender-Website",
+"slug":"perspiciatis-qui-sunt-repudiandae-et-animi",
+"image":"./images/leomarin.jpg",
+"content":"This is a front-end website built for a bartender client. Tools used include HTML,CSS,Bootstrap and jQuery",
+"type_id":1,
+"user_id":1,
+"created_at":"2022-08-05T22:21:55.000000Z",
+"updated_at":"2022-08-05T22:21:55.000000Z",
+    "user":{
+        "id":1,
+        "first":"Lurline",
+        "last":"Glover",
+        "email":"dickinson.jazlyn@example.org",
+        "email_verified_at":"2022-08-05T22:21:55.000000Z",
+        "created_at":"2022-08-05T22:21:55.000000Z",
+        "updated_at":"2022-08-05T22:21:55.000000Z"
+        },
+    "type":{
+        "id":1,
+        "title":"Dolore distinctio qui et voluptas voluptas.",
+        "created_at":"2022-08-05T22:21:55.000000Z",
+        "updated_at":"2022-08-05T22:21:55.000000Z"
+}},
+
+{
+"id":3,
+"title":"Javascript API Moon-Viewer",
+"github":"https://github.com/Andrew-Rezk/Moon-phases-viewer-api-",
+"slug":"perspiciatis-qui-sunt-repudiandae-et-animi",
+"image":"./images/javascript.jpg",
+"content":"This is an app which allows a user to enter their city and will show them the current phase of the moon and weather viewing conditions for their city",
+"type_id":1,
+"user_id":1,
+"created_at":"2022-08-05T22:21:55.000000Z",
+"updated_at":"2022-08-05T22:21:55.000000Z",
+    "user":{
+        "id":1,
+        "first":"Lurline",
+        "last":"Glover",
+        "email":"dickinson.jazlyn@example.org",
+        "email_verified_at":"2022-08-05T22:21:55.000000Z",
+        "created_at":"2022-08-05T22:21:55.000000Z",
+        "updated_at":"2022-08-05T22:21:55.000000Z"
+        },
+    "type":{
+        "id":1,
+        "title":"Dolore distinctio qui et voluptas voluptas.",
+        "created_at":"2022-08-05T22:21:55.000000Z",
+        "updated_at":"2022-08-05T22:21:55.000000Z"
+}},
+
+{
+"id":4,
+"title":"C# aspnet Trip Planner",
+"github":"https://github.com/Andrew-Rezk/TripApplication-C-aspnet",
+"slug":"perspiciatis-qui-sunt-repudiandae-et-animi",
+"image":"./images/aspnet.jpg",
+"content":"This is a CMS trip planner agenda with full CRUD functionality using C# aspnet and LinQ utilising MVC architecture",
+"type_id":1,
+"user_id":1,
+"created_at":"2022-08-05T22:21:55.000000Z",
+"updated_at":"2022-08-05T22:21:55.000000Z",
+    "user":{
+        "id":1,
+        "first":"Lurline",
+        "last":"Glover",
+        "email":"dickinson.jazlyn@example.org",
+        "email_verified_at":"2022-08-05T22:21:55.000000Z",
+        "created_at":"2022-08-05T22:21:55.000000Z",
+        "updated_at":"2022-08-05T22:21:55.000000Z"
+        },
+    "type":{
+        "id":1,
+        "title":"Dolore distinctio qui et voluptas voluptas.",
+        "created_at":"2022-08-05T22:21:55.000000Z",
+        "updated_at":"2022-08-05T22:21:55.000000Z"
+}},
+
+{
+"id":5,
+"title":"Nodejs Cafe Finder API",
+"github":"https://github.com/Andrew-Rezk/Nodejs-places-API",
+"slug":"perspiciatis-qui-sunt-repudiandae-et-animi",
+"image":"./images/cafe.jpg",
+"content":"This is an app which lets users input their city and will list cafes in the city along with a marker on a map. This utilizes Nodejs and axios API calls",
+"type_id":1,
+"user_id":1,
+"created_at":"2022-08-05T22:21:55.000000Z",
+"updated_at":"2022-08-05T22:21:55.000000Z",
+    "user":{
+        "id":1,
+        "first":"Lurline",
+        "last":"Glover",
+        "email":"dickinson.jazlyn@example.org",
+        "email_verified_at":"2022-08-05T22:21:55.000000Z",
+        "created_at":"2022-08-05T22:21:55.000000Z",
+        "updated_at":"2022-08-05T22:21:55.000000Z"
+    },
+    "type":{
+        "id":1,
+        "title":"Dolore distinctio qui et voluptas voluptas.",
+        "created_at":"2022-08-05T22:21:55.000000Z",
+        "updated_at":"2022-08-05T22:21:55.000000Z"
+}},
+
+{
+"id":6,
+"title":"Laravel CMS",
+"github":"https://github.com/2022-Summer-HTTP-5211-RNA/php-cms-assignment-new-andrew-sunny",
+"slug":"perspiciatis-qui-sunt-repudiandae-et-animi",
+"image":"./images/laravel.jpg",
+"content":"This is a CMS using PHP/Laravel to manage a portfolio site. This project uses API routing, SQL, and PHPmyAdmin",
+"type_id":1,
+"user_id":1,
+"created_at":"2022-08-05T22:21:55.000000Z",
+"updated_at":"2022-08-05T22:21:55.000000Z",
+    "user":{
+        "id":1,
+        "first":"Lurline",
+        "last":"Glover",
+        "email":"dickinson.jazlyn@example.org",
+        "email_verified_at":"2022-08-05T22:21:55.000000Z",
+        "created_at":"2022-08-05T22:21:55.000000Z",
+        "updated_at":"2022-08-05T22:21:55.000000Z"
+        },
+    "type":{
+        "id":1,
+        "title":"Dolore distinctio qui et voluptas voluptas.",
+        "created_at":"2022-08-05T22:21:55.000000Z",
+        "updated_at":"2022-08-05T22:21:55.000000Z"
+}}
+
+]
