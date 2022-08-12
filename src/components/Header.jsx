@@ -7,7 +7,8 @@ import img from '../img/laptop.jpg'
     backgroundRepeat: 'no-repeat',
     backgroundPosition: 'center',
     backgroundSize: 'cover',
-    minHeight: '570px'}}>
+    minHeight: '570px',
+    width: "100%"}}>
       <h1 style={{ color: "white", fontSize:"150px", fontFamily:"Playfair Display SC", paddingTop:"20px"}}>Andrew Rezk</h1>
       <p style={{ color: "white", marginTop:"200px", fontSize:"50px", fontFamily:"Playfair Display SC"}} >Full Stack Web Developer</p>
       <div class="d-flex align-items-center justify-content-center">
