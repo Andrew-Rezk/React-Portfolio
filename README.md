@@ -8,7 +8,7 @@ If not already installed, please install: react-bootstrap bootstrap, axios, @for
 
 ## Available Scripts
 
-In the command terminal, you can run (please make sure terminal is pointing towards "react-frontend" file inside directory):
+In the command terminal, you can run (please make sure terminal is pointing towards "react-frontend" folder inside directory):
 
 ### `npm start`
 
